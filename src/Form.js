@@ -26,7 +26,7 @@ const Form = () => {
                         </nav>
                     </div>
                     <div className="header-title">
-                        <h1 className="text-white">React Healthy</h1>
+                        <h1 className="text-white">ITEH - React</h1>
                     </div>
                     <div className="header-last-third"></div>
                 </div>
